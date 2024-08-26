@@ -1,0 +1,12 @@
+Metadata-Version: 2.1
+Name: linear_regressions
+Version: 0.0.1
+Summary: My first Python  ML package
+Author: Jamarcus Williams
+Author-email: jamarcuswiliams12@gmail.com
+Keywords: python,basic model,linear regression,machine learning
+Requires-Dist: seaborn
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: plotly
+Requires-Dist: keras

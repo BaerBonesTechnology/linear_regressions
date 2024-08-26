@@ -1,0 +1,5 @@
+MSE = "mean_squared_error"
+RMSE = "root_mean_squared_error"
+predicted_fare = "PREDICTED_FARE"
+observed_fare = "OBSERVED_FARE"
+l1_loss = "L1_LOSS"

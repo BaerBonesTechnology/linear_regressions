@@ -1,0 +1,12 @@
+README.txt
+setup.py
+lib/__init__.py
+lib/__main__.py
+lib/display_data.py
+lib/gather_data.py
+lib/train_model.py
+linear_regressions.egg-info/PKG-INFO
+linear_regressions.egg-info/SOURCES.txt
+linear_regressions.egg-info/dependency_links.txt
+linear_regressions.egg-info/requires.txt
+linear_regressions.egg-info/top_level.txt
